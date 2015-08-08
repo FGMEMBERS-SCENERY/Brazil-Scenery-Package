@@ -1,0 +1,4 @@
+Aeroporto de Porto Velho/SBPV:
+Instalação comum na pasta Objects:
+w070s10 > w064s09 e substitui a antiga.
+Tudo instalado, bom proveito.

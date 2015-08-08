@@ -1,0 +1,4 @@
+Aeroporto de chapecó/SBCH:
+Instalação comum na pasta Objects:
+w060s30 > w053s28 e substitui a antiga.
+Tudo instalado, bom proveito.

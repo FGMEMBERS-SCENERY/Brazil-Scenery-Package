@@ -1,0 +1,4 @@
+Aeroporto de Manaus/SBEG:
+Instalação comum na pasta Objects:
+w070s10 > w061s04 e substitui a antiga.
+Tudo instalado, bom proveito.

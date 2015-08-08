@@ -1,0 +1,19 @@
+Aeroporto de Sao José dos Campos - Centro Embraer SBSJ:
+Instalacao comum na pasta Objects: copie os arquivos stg para a pasta.
+Scenery/objects/w050s30 > w046s24 e substitua as antigas.
+Copie e cole o conteœdo da pasta Airport dentro da pasta data/models/Airport e data/scenery/models/Airport.
+Os arquivos da pasta hangars instale dentro da pasta data/models/hangars e tambem dentro da pasta data/scenery/models/hangars.
+pronto Tudo instalado, bom proveito.
+
+
+Grupo Fgbr
+Neves - BR-NVS
+Prestes - PR-PRE
+Wagner - BR-WAG
+Rick-Br-RICK
+Geo - PR_GEO
+Michel - Michel
+Carlos - BR-KAIK
+
+www.grupofgbr.com.br
+Abraxxxxx

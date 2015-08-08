@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Airport/ils.xml -43.161833 -22.912667 -0.01 352.42
+OBJECT_SHARED Models/Sport/RedbullBlueQuadro.xml -43.17217 -22.94596 -0.01 348
+OBJECT_SHARED Models/Sport/RedbullBlueGate.xml -43.17709 -22.94509 2.8 256
+OBJECT_SHARED Models/Sport/RedbullBlueGate.xml -43.1689 -22.94429 0 125
+OBJECT_SHARED Models/Sport/RedbullBlueGate.xml -43.17512 -22.94616 0 248
+OBJECT_SHARED Models/Sport/RedbullStartGate.xml -43.16733 -22.9424 0 272
+OBJECT_SHARED Models/Sport/RedbullRedPylon.xml -43.17146 -22.94424 5.04 180
+OBJECT_SHARED Models/Sport/RedbullRedPylon.xml -43.17073 -22.94341 8.06 180
+OBJECT_SHARED Models/Sport/RedbullRedPylon.xml -43.16954 -22.94275 6.08 180

@@ -1,0 +1,4 @@
+Aeroporto de Cuiabá:
+Instalação comum na pasta Objects:
+w060s20 > w057s16 e substitui a antiga.
+Tudo instalado, bom proveito.

@@ -1,0 +1,4 @@
+Aeroporto de Navegantes/SBNF:
+Instalação comum na pasta Objects:
+w050s30 > w049s27 e substitui a antiga.
+Tudo instalado, bom proveito.

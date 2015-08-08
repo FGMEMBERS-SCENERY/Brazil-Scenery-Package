@@ -1,0 +1,10 @@
+Para Instalar o aeroporto e preciso ter os cenarios do brasil e as pastas models com os avioes brasileiros inslalado!
+Descompacte e depois instale no diretorio FlightGear>Data>Scenery>Objests.
+Ex> Vitória - SBST
+Copie e cole os arquivos contido na pasta w041s21 para a respectiva pasta em Objects.
+Copie e cole o arquivo contido na pasta Terrain w041s21 para a respectiva pasta em Terrain.
+OBS: Esse aeroporto vem com arquivos para ser instalado na pasta Objects e Terrian!
+
+George Luiz
+Créditos para os desenvolvedores e contribuidores do FlightGear e Pedro Andrade.
+

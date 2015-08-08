@@ -1,0 +1,4 @@
+Aeroporto de Rio Branco/SBRB:
+Instalação comum na pasta Objects:
+w070s10 > w068s10 e substitui a antiga.
+Tudo instalado, bom proveito.

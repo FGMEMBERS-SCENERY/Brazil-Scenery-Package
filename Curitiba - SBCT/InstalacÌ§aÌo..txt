@@ -1,0 +1,11 @@
+Para Instalar o aeroporto e preciso ter os cenarios do Brasil 
+Descompacte e depois instale no diretorio FlightGear>Data>Scenery>Objests.
+Ex> Cutiritiba - SBCT
+Copie e cole os arquivos contido na pasta w050s26 para a respectiva pasta em Objects.
+Depois instale a pasta models na diretório FlightGear>data>Models.
+OBS: Nesta pasta se encontra alguns dos aviões nacional que a comunidade fizerão!
+Outros aviões vc tem q ter instalado no jogo!
+
+
+George Luiz
+Créditos para os desenvolvedores e contribuidores do FlightGear e todos q fazem a comunidade!

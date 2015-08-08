@@ -1,0 +1,4 @@
+Aeroporto de Ilhéus/SBIL:
+Instalação comum na pasta Objects:
+w040s20 > w040s15 e substitui a antiga.
+Tudo instalado, bom proveito.

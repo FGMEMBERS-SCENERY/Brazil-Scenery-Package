@@ -1,0 +1,28 @@
+Aeroporto e Cenario de Fernando De Noronha - Aeroporto SBFN:
+Instalacao comum na pasta Objects: copie os arquivos stg para a pasta.
+Scenery/objects/w040s10 > w033s04 e substitua as antigas.
+
+Copie e cole o conteúdo das pastas dentro da Models Nas Suas Respectivas pastas dentro do jogo.
+
+Os arquivos da pasta hangars instale dentro da pasta data/models/hangars
+
+Os arquivos da pasta models/maritime/civilian instale dentro da pasta data/models/maritime/civilian
+
+Os arquivos da pasta Models/Aircraft instale dentro da pasta data/models/aircraft.
+
+
+Se a sua versão for a 2.4 vc tera q fazer o msm procedimento também dentro da pasta data/scenery/models.
+
+pronto Tudo instalado, bom proveito.
+
+Grupo Fgbr
+Neves - BR-NVS
+Prestes - PR-PRE
+Wagner - BR-WAG
+Rick-Br-RICK
+Geo - PR_GEO
+Michel - Michel
+Carlos - BR-KAIK
+
+www.grupofgbr.com.br
+Abraxxxxx

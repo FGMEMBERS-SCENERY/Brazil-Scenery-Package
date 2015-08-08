@@ -1,0 +1,7 @@
+Para Instalar os aeroportos e preciso ter os cenarios do brasil inslalado! Descompacte e depois instale no diretorio FlightGear>Data>Scenery>Objests, lebrando que as pastas estão separando por aeroportos e deverão ser instalado uma a uma!
+Ex> Aracaju - SBAR
+Copie a pasta w040s20 para a respectiva pasta em Object e depois cole, vai aparecer uma messagem, ai e só vc apertar em copiar todos!
+Depois instale a pasta models na diretório FlightGear>data>Models.
+Ex: E só copiar a pasta models na respectiva pasta, colar e aperte em copiar todos!
+OBS: Nesta pasta se encontra alguns dos aviões nacional que a comunidade fizerão!
+Outros aviões como o 747 e 707 entre outros vc tem q ter instalado no jogo!

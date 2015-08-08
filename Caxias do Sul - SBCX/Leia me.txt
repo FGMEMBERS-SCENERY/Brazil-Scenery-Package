@@ -1,0 +1,4 @@
+Aeroporto de Caxias do Sul-SBCX:
+Instalação comum na pasta Objects:
+w060s30 > w052s30 e substitui a antiga.
+Tudo instalado, bom proveito.

@@ -1,0 +1,4 @@
+Aeroporto de Imperatriz/SBIZ:
+Instalação comum na pasta Objects:
+w050s10 > w048s06 e substitui a antiga.
+Tudo instalado, bom proveito.

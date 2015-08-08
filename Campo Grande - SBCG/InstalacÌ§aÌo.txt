@@ -1,0 +1,6 @@
+Para Instalar o aeroporto e preciso ter os cenarios do Brasil!
+Descompacte e depois instale no diretorio FlightGear>Scenery>Objests.
+Ex> Campo Grande - SBCG
+Copie e cole os arquivos contido na pasta w55s21 para a respectiva pasta em Objects.No caso w60s30>w55s21.
+
+Lucas Veriano / RS-LUC

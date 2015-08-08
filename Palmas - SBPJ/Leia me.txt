@@ -1,0 +1,4 @@
+Aeroporto de Palmas-SBPJ:
+Instalação comum na pasta Objects:
+w050s20 > w049s11 e substitui a antiga.
+Tudo instalado, bom proveito.
